@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashitha-18&label=Profile%20views&color=0e75b6&style=flat" alt="ashitha-18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashi1822" target="blank"><img src="https://img.shields.io/twitter/follow/ashi1822?logo=twitter&style=for-the-badge" alt="ashi1822" /></a> </p>
-
 - 🔭 I’m currently working on **Web3 prooject**
 
 - 🌱 I’m currently learning **React, Solidity, Blockchain**
