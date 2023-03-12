@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashitha-18&label=Profile%20views&color=0e75b6&style=flat" alt="ashitha-18" /> </p>
 
-- 🔭 I’m currently working on **Web3 prooject**
-
 - 🌱 I’m currently learning **React, Solidity, Blockchain**
 
 - 📫 How to reach me **https://twitter.com/ashi1822**
